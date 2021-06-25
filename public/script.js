@@ -1,6 +1,3 @@
-//const { text } = require("express");
-
-//const { Socket } = require("socket.io");
 const socket = io('/')
 const videoGrid=document.getElementById('video-grid');
 var myPeer = new Peer(undefined, {
