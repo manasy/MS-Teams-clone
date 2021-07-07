@@ -137,10 +137,12 @@ const setStopVideo = () => {    //changing icons
 	`
 	document.querySelector('.mainVideoButton').innerHTML = html
 }
-const setPlayVideo = () => {
+const setPlayVideo = () => {	//changing icons
 	const html = `
 	<i class="stop fas fa-video-slash"></i>
 	  <span>Play Video</span>
 	`
 	document.querySelector('.mainVideoButton').innerHTML = html
 }
+
+//end
