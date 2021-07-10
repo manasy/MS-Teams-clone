@@ -47,9 +47,10 @@ Open [this link](http://localhost:3031/)
 * uuid
 
 ## To Do
-* Chat out of call
-* Leave meeting bug
-* Screen share
+- [x] In call chat
+- [ ] Chat out of call
+- [ ] Leave meeting bug
+- [ ] Screen share
 
 ## References
 * [Clever Programmers](https://youtu.be/ZVznzY7EjuY) - [Code](https://github.com/CleverProgrammers/nodejs-zoom-clone)
