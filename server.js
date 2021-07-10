@@ -23,7 +23,7 @@ app.get('/:room', (req,res) => {
 })
 
 io.on('connection', socket => {
-    socket.on('join-room', (roomID, userId) => {
+    socket.on('join-room', (roomID, userId) => {  //unique room ID
       socket.join(roomID)
       socket.to(roomID).emit('user-connected', userId);
 
