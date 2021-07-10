@@ -10,7 +10,7 @@ Project Deployed [here](https://ms-teams-clone-1997.herokuapp.com/4ece613f-a86c-
 * Start/Stop Video
 * In call chat feature
 
-##Setup
+## Setup
 * Clone this repo to your local machine using [this link]()
 
 ## Agile Implementation
@@ -29,7 +29,7 @@ Project Deployed [here](https://ms-teams-clone-1997.herokuapp.com/4ece613f-a86c-
 * Simple-peer
 * uuid
 
-##To Do
+## To Do
 * Chat out of call
 * Leave meeting bug
 * Screen share
