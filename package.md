@@ -1,4 +1,4 @@
-# plan of action
+# TO DO 
 
 - initialise node js project            DONE
 - initialise first view                 DONE
@@ -10,3 +10,5 @@
 - add mute option                       DONE
 - add stop video option                 DONE
 - leave meeting 
+- Share screen
+- Chat feature out of call

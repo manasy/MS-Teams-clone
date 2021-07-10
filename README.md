@@ -12,7 +12,23 @@ Project Deployed [here](https://ms-teams-clone-1997.herokuapp.com/4ece613f-a86c-
 * In call chat feature
 
 ## Setup
-* Clone this repo to your local machine using [this link]()
+###### Clone
+Clone this repo to your local machine using [this link](https://github.com/manasy/MS-Teams-clone.git)
+```
+git clone https://github.com/manasy/MS-Teams-clone.git
+```
+```
+cd MS-Teams-clone
+``` 
+###### Server Setup 
+
+```
+npm install -g nodemon
+``` 
+```
+nodemon ./server.js localhost 3031
+``` 
+Open [this link](http://localhost:3031/)
 
 ## Agile Implementation
 * Learn
