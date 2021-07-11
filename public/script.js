@@ -78,6 +78,7 @@ const connectToNewUser = (userId, stream) => {
 	peers[userId] = call
 }
 
+
 const addVideoStream = (video, stream) => {
 	video.srcObject = stream
 	video.addEventListener('loadedmetadata', () => {
