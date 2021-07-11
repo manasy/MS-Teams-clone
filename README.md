@@ -2,8 +2,8 @@
 
 **Web Dev Project for Microsoft Engage 2021.**
 Two or more participants can connect with each other to have a video conversation.
-Project Deployed [here](https://ms-teams-clone-1997.herokuapp.com/a3150f50-9fd9-406c-bb10-62cbe817cfd5)
-See [Video Demo](https://drive.google.com/file/d/1Uj_jcWl7T3iQ9seeV-GsAt8unYGVyRVZ/view?usp=sharing) 
+- Project Deployed [here](https://ms-teams-clone-1997.herokuapp.com/a3150f50-9fd9-406c-bb10-62cbe817cfd5).
+- See [Video Demo](https://drive.google.com/file/d/1Uj_jcWl7T3iQ9seeV-GsAt8unYGVyRVZ/view?usp=sharing) 
 
 ## Features
 * Join call
