@@ -2,7 +2,8 @@
 
 **Web Dev Project for Microsoft Engage 2021.**
 Two or more participants can connect with each other to have a video conversation.
-Project Deployed [here](https://ms-teams-clone-1997.herokuapp.com/2bb7803b-b928-4c0f-a982-36fe2361f800)
+Project Deployed [here](https://ms-teams-clone-1997.herokuapp.com/a3150f50-9fd9-406c-bb10-62cbe817cfd5)
+See [Video Demo](https://drive.google.com/file/d/1Uj_jcWl7T3iQ9seeV-GsAt8unYGVyRVZ/view?usp=sharing) 
 
 ## Features
 * Join call
@@ -35,7 +36,7 @@ Open [this link](http://localhost:3031/)
 * Chose the tools and technologies and designed a basic prototype
 * Test and fix bugs
 * Add more features 
-* Test and fix bugs
+
 
 ## Technologies used
 * Node express server
@@ -45,12 +46,14 @@ Open [this link](http://localhost:3031/)
 * Socket.io
 * Simple-peer
 * uuid
+* Adobe XD (for UI)
 
 ## To Do
 - [x] In call chat
 - [ ] Chat out of call
 - [ ] Leave meeting bug
 - [ ] Screen share
+- [ ] Copy invite link
 
 ## References
 * [Clever Programmers](https://youtu.be/ZVznzY7EjuY) - [Code](https://github.com/CleverProgrammers/nodejs-zoom-clone)
